@@ -33,7 +33,7 @@ The dashboard helps Excelerate:
 - Engagement by opportunity category
 - Gender-based participation analysis
 
-📸 Screenshot: `dashboard_1_overview_user_engagement.png`
+<img width="912" height="684" alt="dashboard _1_overview_and_user_engagement" src="https://github.com/user-attachments/assets/cb066e7c-b61f-4689-b8bf-694e1c7730f4" />
 
 ---
 
@@ -42,7 +42,7 @@ The dashboard helps Excelerate:
 - Country-wise and city-wise user distribution
 - U.S. city-level insights using map visualizations
 
-📸 Screenshot: `dashboard_2_geographic_distribution.png`
+<img width="915" height="682" alt="dashboard _2_geographic_distribution" src="https://github.com/user-attachments/assets/c4c36bd8-dabb-475b-b625-6583651668c0" />
 
 ---
 
@@ -54,7 +54,8 @@ The dashboard helps Excelerate:
 - Most completed opportunities
 - Skill-based participation insights
 
-📸 Screenshot: `dashboard_3_opportunity_skill_analysis.png`
+<img width="915" height="688" alt="dashboard _3_opportunity_and_skill_analysis" src="https://github.com/user-attachments/assets/5377c9eb-3f58-4acc-b911-71d3c6587ef2" />
+
 
 ---
 
@@ -63,7 +64,7 @@ The dashboard helps Excelerate:
 - Reward amount analysis
 - Identification of high-impact opportunities receiving financial aid
 
-📸 Screenshot: `dashboard_4_scholarship_financial_impact.png`
+<img width="916" height="683" alt="dashboard _4_scholarship_and_financial_impact" src="https://github.com/user-attachments/assets/3944e932-8269-4acc-87b4-85bcca3024ea" />
 
 ---
 
